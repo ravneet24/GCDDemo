@@ -12,6 +12,8 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
+            .//Initial commit
+        
         /// It is not possible to run sync task on the queue which is already owned by the  thread running on same queue
         
         // ********* deadlock -- App crash ************************
